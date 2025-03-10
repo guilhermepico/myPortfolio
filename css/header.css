@@ -15,7 +15,7 @@ header {
 }
 .headerLogo { 
     width: 110px;
-    background: url(/assets/logo.png) center/cover;
+    background: url(assets/logo.png) center/cover;
     height: 3.5rem;
 
 }
