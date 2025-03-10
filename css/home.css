@@ -1,0 +1,50 @@
+.home {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding: 10px;
+  width: 100dvw;
+  height: 400px;
+  align-items: center;
+  text-align: center;
+}
+.home h2 {
+  font-size: 13px;
+}
+.homeImg {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: rgb(114, 0, 104);
+  display: flex;
+}
+.imageHome {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  background: url(/assets/gui.JPG) center/cover transparent;
+}
+.homeText {
+  color: aliceblue;
+  width: 100%;
+  text-align: center;
+  font-size: 10px;
+  gap: 10px;
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  border-top: 1px solid #cb6ce6;
+}
+.homeText p {
+  padding-top: 20px;
+}
+.home span {
+  color: #cb6ce6;
+}
+.homeText section {
+  background: url(/assets/idea.jpg) center/cover no-repeat;
+  width: 100%;
+  height: 10.8rem;
+  border-radius: 10px;
+} 
+

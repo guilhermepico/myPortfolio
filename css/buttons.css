@@ -1,0 +1,56 @@
+.logoWpp {
+    color: white;
+    bottom: 0;
+    right: 0;
+    position: fixed;
+    border-radius: 50%;
+    background-color: #25d366;
+    height: 30px;
+    width: 30px;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+.custom-button {
+    background-color: #cb6ce6; /* Cor de fundo verde */
+    color: white; /* Cor do texto */
+    padding: 10px; /* Espaçamento interno (vertical e horizontal) */
+    text-align: center; /* Alinhamento do texto */
+    text-decoration: none; /* Remove o sublinhado do texto */
+    font-size: 10px; /* Tamanho da fonte */
+    border-radius: 10px; /* Bordas arredondadas */
+    height: 40px;
+    width: 100px;
+    margin: auto;
+    font-weight: bold;
+    font-family: "Atkinson Hyperlegible Mono", sans-serif;
+    font-optical-sizing: auto;
+    border: none;
+  }
+#jobOne button {
+    width: 180px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: #030565;
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "Atkinson Hyperlegible Mono", sans-serif;
+    font-size: 10px;
+    color: aliceblue;
+    margin-top: 220px;
+}
+#jobTwo button {
+    width: 190px;
+    height: 40px;
+    border-radius: 10px;
+    border: none;
+    background-color: #5b3d01;
+    color: aliceblue;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: "Atkinson Hyperlegible Mono", sans-serif;
+    font-size: 9px;
+    color: aliceblue;
+    margin-top: 220px;
+}

@@ -1,0 +1,17 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root {
+  font-size: 62, 5%;
+}
+body {
+  height: 100dvh;
+  background: linear-gradient(90deg, black, #41014d);
+  width: 100dvw;
+  padding-top: 3.5rem;
+  font-family: "Atkinson Hyperlegible Mono", sans-serif;
+  font-weight: normal;
+  font-optical-sizing: auto;
+}

@@ -1,0 +1,21 @@
+header {
+  width: 100%;
+  height: 3.5rem;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  color: aliceblue;
+  align-items: center;
+  background-color: #0f1120;
+  display: flex;
+  gap: 10px;
+  font-size: 0.6rem;
+  align-items: center;
+}
+.headerLogo { 
+    width: 110px;
+    background: url(/assets/logo.png) center/cover;
+    height: 3.5rem;
+
+}

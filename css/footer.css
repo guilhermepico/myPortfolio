@@ -1,0 +1,14 @@
+footer {
+    background-color: #0f1120;
+    height: 3.5rem;
+    display: flex;
+    color: aliceblue;
+    font-size: 10px;
+    align-items: center;
+    text-align: left;
+}
+.logoFooter {
+    background: url(/assets/logo.png) center/cover  ;
+    height: 3.5rem;
+    width: 100%;
+}

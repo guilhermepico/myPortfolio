@@ -1,0 +1,38 @@
+.services {
+    display: flex;
+    flex-direction: column;
+    color: aliceblue;
+    align-items: center;
+    margin-top: 20px;
+    width: 100%;
+    gap: 20px;
+    border-top: 1px solid #cb6ce6;
+    padding-top: 10px;
+}
+.prices {
+    height: 500px;
+    border-bottom: 1px solid #cb6ce6;
+}
+.priceOne,
+.priceTwo,
+.priceThree {
+    width: 250px;
+    height: 290px;
+    margin-top: 10px;
+    background: #4a0365 no-repeat;
+    color: aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.priceOne,
+.priceTwo,
+.priceThree p, ul {
+    font-size: 10px;
+}
+.services ul {
+    margin-left: 15px;
+}
