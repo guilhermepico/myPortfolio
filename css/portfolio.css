@@ -1,37 +1,38 @@
 .portfolio {
-    border-top: 1px solid #cb6ce6;
-    width: 100%;
-    display: flex;
-    flex-direction: column;
-    font-size: 10px;
-    color: aliceblue;
-    gap: 20px;
-    padding: 10px;
-    align-items: center;
-    text-align: center;
-    font-weight: bold;
+  border-top: 1px solid #cb6ce6;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  font-size: 10px;
+  color: aliceblue;
+  gap: 20px;
+  padding: 10px;
+  align-items: center;
+  text-align: center;
+  font-weight: bold;
 }
 .portfolio span {
-    color: #cb6ce6;
+  color: #cb6ce6;
 }
 .portfolioJobs section {
-    width: 250px;
-    height: 290px;
-    margin-top: 10px;
-    background: #4a0365 no-repeat;
-    color: aliceblue;
-    border-radius: 10px;
-    padding: 10px;
-    text-align: center;
-    display: flex;
-    flex-direction: column;
-    gap: 20px;
-    align-items: center;
-    padding: 10px;
+  width: 250px;
+  height: 290px;
+  margin-top: 10px;
+  background: #4a0365 no-repeat;
+  color: aliceblue;
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  padding: 10px;
 }
 #jobOne {
-    background: url(//assets/levijordamobile.PNG) center/cover no-repeat;
+  background: url(https://github.com/guilhermepico/myPortfolio/blob/master/assets/levijordamobile.PNG)
+    center/cover no-repeat;
 }
 #jobTwo {
-    background: url(/assets/personalMobile.png) top center/cover no-repeat;
+  background: url(/assets/personalMobile.png) top center/cover no-repeat;
 }
