@@ -9,6 +9,7 @@ header {
   align-items: center;
   background-color: #0f1120;
   display: flex;
+  justify-content: space-between;
   gap: 10px;
   font-size: 0.6rem;
   align-items: center;
@@ -17,5 +18,14 @@ header {
     width: 110px;
     background: url(./assets/logo.png) center/cover no-repeat;
     height: 3.5rem;
-
+    border-left: 1px solid #cb6ce6;
+}
+.links {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 1.0rem;
+  width: 200px;
+  margin-right: 20px;
+  align-items: center;
 }

@@ -3,12 +3,14 @@ footer {
     height: 3.5rem;
     display: flex;
     color: aliceblue;
-    font-size: 10px;
+    font-size: 9px;
     align-items: center;
     text-align: left;
+    justify-content: space-between;
 }
 .logoFooter {
-    background: url(./assets/logo.png)  center/cover no-repeat;
+    background: url(./assets/logo.png) center/cover no-repeat;
     height: 3.5rem;
-    width: 100%;
+    width: 110px;
+    border-left: 1px solid #cb6ce6;
 }
