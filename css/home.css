@@ -22,7 +22,7 @@
   border-radius: 50%;
   width: 150px;
   height: 150px;
-  background: url(/assets/gui.PNG) center/cover transparent;
+  background: url(/assets/gui.PNG) center/cover transparent no-repeat;
 }
 .homeText {
   color: aliceblue;
