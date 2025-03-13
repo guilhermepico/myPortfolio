@@ -19,7 +19,7 @@
     font-size: 10px; /* Tamanho da fonte */
     border-radius: 10px; /* Bordas arredondadas */
     height: 40px;
-    width: 100px;
+    width: 100%;
     margin: auto;
     font-weight: bold;
     font-family: "Atkinson Hyperlegible Mono", sans-serif;
